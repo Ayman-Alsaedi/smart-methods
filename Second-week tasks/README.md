@@ -20,3 +20,5 @@ roscore
 ```
 ### If everything is correct, you will see something similar to what is shown in the following image:
 ![image](https://user-images.githubusercontent.com/78390351/179449172-5bafd077-8142-4edc-a900-41660db97871.png)
+
+## install ros2 on jetson nano
