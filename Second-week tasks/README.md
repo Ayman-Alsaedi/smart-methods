@@ -21,4 +21,13 @@ roscore
 ### If everything is correct, you will see something similar to what is shown in the following image:
 ![image](https://user-images.githubusercontent.com/78390351/179449172-5bafd077-8142-4edc-a900-41660db97871.png)
 
+
 ## install ros2 on jetson nano
+
+### First, we install ubuntu on Jetson Nano by following the steps in the following link:
+
+https://qengineering.eu/install-ubuntu-20.04-on-jetson-nano.html
+
+### Then we install the ros2 by following the steps in the following link:
+
+https://docs.ros.org/en/foxy/Installation/Alternatives/Ubuntu-Development-Setup.html
